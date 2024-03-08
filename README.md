@@ -73,8 +73,8 @@ Successfully addressed the font integration challenge by utilizing the `@font-fa
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-for-recipe-webpage-MXndJvs_tW)
+- Live Site URL: [Add live site URL here](https://recipe-page-tan.vercel.app/)
 
 ## My process
 
@@ -87,9 +87,9 @@ Successfully addressed the font integration challenge by utilizing the `@font-fa
 
 ### What I learned
 
- some of major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+ some of major learnings while working through this project. Writing is a great way to reinforce our own knowledge.
 
-To see how you can add code snippets, see below:
+ code snippets, see below:
 
 ```css
 /* fonts.css */
