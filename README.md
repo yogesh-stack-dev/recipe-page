@@ -110,22 +110,22 @@ To see how you can add code snippets, see below:
 During this HTML and Tailwind CSS project, I've identified key areas to enhance my skills:
 
 1. **HTML Mastery:**
+   - Deepening understanding for creating structured and meaningful content.
 
- -Deepening understanding for creating structured and meaningful content.
 2. **Tailwind CSS Proficiency:**
+   - Strengthening skills in efficient styling and responsive design.
 
- -Strengthening skills in efficient styling and responsive design.
 3. **Responsive Design:**
+   - Enhancing expertise in creating responsive layouts for diverse devices.
 
- -Enhancing expertise in creating responsive layouts for diverse devices.
 4. **Git for Version Control:**
+   - Integrating version control using Git for effective project management and collaboration.
 
- -Integrating version control using Git for effective project management and collaboration.
 5. **Documentation Practices:**
-
- -Improving documentation to enhance code readability and collaboration.
+   - Improving documentation to enhance code readability and collaboration.
 
 These targeted areas reflect my commitment to continuous improvement within the realm of HTML and Tailwind CSS. I look forward to applying these refined skills in upcoming projects.
+
 
 ### Useful resources
 
